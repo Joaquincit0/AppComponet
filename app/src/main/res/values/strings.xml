@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Orellano</string>
+    <string name="resultado">Resultado</string>
+    <string name="numeroIngresado">Introducir los minutos</string>
+    <string name="Calcular">calcular</string>
+    <string name="Titulo">Calcular Minutos</string>
+</resources>
